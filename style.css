@@ -92,7 +92,7 @@ header div {
 }
 
 .search-box:hover {
-    box-shadow: 0px 3px 15px 0px rgba(50, 50, 50, 0.2);
+    box-shadow: 0 3px 15px 0 rgba(50, 50, 50, 0.2);
     border-color: #4285F4;
     cursor: text;
 }
